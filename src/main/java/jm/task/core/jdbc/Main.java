@@ -14,11 +14,11 @@ public class Main {
         userService.saveUser("Rafael", "Turtle", (byte) 21);
         userService.saveUser("Michelangelo", "Turtle-Ninja", (byte) 19);
         userService.saveUser("Sub-Zero", "fromMortalCombat", (byte) 22);
-
-        userService.removeUserById(2);
-
-        userService.getAllUsers();
-
-        userService.dropUsersTable();
+//
+//        userService.removeUserById(2);
+//
+//        userService.getAllUsers();
+//
+//        userService.dropUsersTable();
     }
 }
